@@ -17,7 +17,7 @@ function MainBoard() {
             className="bg-slate-600 h-8 rounded-l-2xl outline-none px-3 w-full"
             placeholder="Search..."
           />
-          <div className="bg-slate-600 w-6 rounded-r-2xl flex items-center w-full">
+          <div className="bg-slate-600 w-6 rounded-r-2xl flex items-center ">
             {iconSearch}
           </div>
         </div>

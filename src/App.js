@@ -12,7 +12,7 @@ function App() {
   };
   return (
     <DndProvider backend={HTML5Backend}>
-      <div className="App bg-slate-800 text-white w-screen">
+      <div className="App bg-slate-800 text-white ">
         <div className="flex w-full ">
           <div className="w-14 flex h-screen sticky top-0">
             <div className="w-14  bg-slate-600">
